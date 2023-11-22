@@ -13,6 +13,8 @@ https://app.powerbi.com/singleSignOn?pbi_source=desktop&ru=https%3A%2F%2Fapp.pow
 
 ## Quick Overview 
 
+### The dataset comprises 1470 employees with various attributes, including EmpID, Age, AgeGroup, Attrition, Department, EducationField, EmployeeNumber, Gender, JobRole, JobSatisfaction, MonthlyIncome, SalarySlab, TotalWorkingYears, YearsAtCompany and few other factors. Key figures such as an average salary of $6.5K, an overall attrition count of 237, and an attrition rate of 16.1% are extracted from this dataset.
+
 #### Total Employees: 1470
 #### Attrition Count: 237
 #### Average Salary: $6.5K

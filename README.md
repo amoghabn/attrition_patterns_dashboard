@@ -1,3 +1,4 @@
 Attrition Patterns Dashboard
 
-<img width="1102" alt="AttritioonPatterns" src="https://github.com/amoghabn/attrition_patterns_dashboard/assets/112653296/074a27b0-638c-4ca3-ae9d-db5f5842f652">
+<img width="1101" alt="AttritionPatterns" src="https://github.com/amoghabn/attrition_patterns_dashboard/assets/112653296/1b2bc042-155a-463c-8283-419b2d822aee">
+

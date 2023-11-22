@@ -2,7 +2,8 @@
 
 <img width="1101" alt="AttritionPatterns" src="https://github.com/amoghabn/attrition_patterns_dashboard/assets/112653296/1b2bc042-155a-463c-8283-419b2d822aee">
 
-scan the below QR code to access this report directly from a mobile device.
+## scan the below QR code to access this report directly from a mobile device.
+
 ![AttritionPatternsQR](https://github.com/amoghabn/attrition_patterns_dashboard/assets/112653296/2850cbfe-a755-49ca-867d-b9bd75c99a3e)
 
 

@@ -4,6 +4,10 @@
 
 ![AttritionPatternsQR](https://github.com/amoghabn/attrition_patterns_dashboard/assets/112653296/2850cbfe-a755-49ca-867d-b9bd75c99a3e)
 
+## link to the report on POWER BI
+https://app.powerbi.com/singleSignOn?pbi_source=desktop&ru=https%3A%2F%2Fapp.powerbi.com%2Fgroups%2Fme%2Freports%2Fa1b0a654-5799-4800-a0fd-446c07e272c8%3Fpbi_source%3Ddesktop%26noSignUpCheck%3D1
+
+
 
 <img width="1101" alt="AttritionPatterns" src="https://github.com/amoghabn/attrition_patterns_dashboard/assets/112653296/1b2bc042-155a-463c-8283-419b2d822aee">
 

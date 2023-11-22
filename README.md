@@ -12,7 +12,7 @@ https://app.powerbi.com/singleSignOn?pbi_source=desktop&ru=https%3A%2F%2Fapp.pow
 <img width="1101" alt="AttritionPatterns" src="https://github.com/amoghabn/attrition_patterns_dashboard/assets/112653296/1b2bc042-155a-463c-8283-419b2d822aee">
 
 ## Quick Overview 
-
+### This interactive Power BI dashboard report offers insights into attrition patterns within the company.
 ### The dataset comprises 1470 employees with various attributes, including EmpID, Age, AgeGroup, Attrition, Department, EducationField, EmployeeNumber, Gender, JobRole, JobSatisfaction, MonthlyIncome, SalarySlab, TotalWorkingYears, YearsAtCompany and few other factors. Key figures such as an average salary of $6.5K, an overall attrition count of 237, and an attrition rate of 16.1% are extracted from this dataset.
 
 #### Total Employees: 1470

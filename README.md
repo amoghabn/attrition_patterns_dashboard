@@ -4,10 +4,9 @@
 
 ## Quick Overview 
 
-## Deep Dive into Attrition Patterns
-
 #### Total Employees: 1470
 #### Attrition Count: 237
+#### Average Salary: $6.5K
 
 ## Attrition Rate by Education Field:
 #### Other: 13%
@@ -22,7 +21,6 @@
 #### 36-45: 16%
 #### 46-55: 12%
 #### 55+: 11%
-#### Average Salary: $6.5K
 
 ## Attrition Count by Years Worked:
 #### 0-2: 33%
